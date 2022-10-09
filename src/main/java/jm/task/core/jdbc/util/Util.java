@@ -21,4 +21,7 @@ public class Util {
         }
         return connection;
     }
+
+    public static void closeConnection() {
+    }
 }
